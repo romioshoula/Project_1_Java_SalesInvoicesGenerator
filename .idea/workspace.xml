@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eeb3d8c-c40b-42ee-a0d6-086261395b30" name="Changes" comment="Added Screenshots">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InvoiceItemsExcelFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/InvoiceItemsExcelFile.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InvoicesTableExcelFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/InvoicesTableExcelFile.csv" afterDir="false" />
-    </list>
+    <list default="true" id="7eeb3d8c-c40b-42ee-a0d6-086261395b30" name="Changes" comment="Updated Readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652538793434</updated>
-      <workItem from="1652538795899" duration="6789000" />
+      <workItem from="1652538795899" duration="7204000" />
     </task>
     <task id="LOCAL-00001" summary="Created Java repo and project structure">
       <created>1652541984712</created>
@@ -169,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652545023383</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added Screenshots Documentation &amp; Program Succesfully Working">
+      <created>1652546866385</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652546866385</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated Readme">
+      <created>1652547046880</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652547046880</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +206,8 @@
     <MESSAGE value="Updated AppMain Class" />
     <MESSAGE value="Updated GUI" />
     <MESSAGE value="Added Screenshots" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Screenshots" />
+    <MESSAGE value="Added Screenshots Documentation &amp; Program Succesfully Working" />
+    <MESSAGE value="Updated Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme" />
   </component>
 </project>
