@@ -1,0 +1,39 @@
+The project can be distributed over 4 main tasks:
+
+
+Design your code skeleton and classes/object
+1- Design different classes and objects to be used in the project based on the requirements
+
+2- Create Different Packages based on the requirements and the designed classes & objects
+
+3- Make sure you follow proper code styling in the deliverable"
+
+
+
+Data Storage & I/O
+1- Determine the format structure of the file to be created
+
+2- Store data in the files created using the instructed format and saved in CSV files
+
+
+
+GUI
+GUI design is provided in the below screenshots
+1- Use JFrame class & complex components like JTable
+
+2- Handle multiple action events
+
+
+
+Exception Handling
+Handling reading & writing Exceptions
+1- Reading exceptions shall display a descriptive message on the following cases:
+
+Wrong file format
+Wrong date format
+File not found
+2- Writing exceptions shall display a descriptive message on the following cases:
+
+Wrong file format
+File not found
+Folder/File path is not found
