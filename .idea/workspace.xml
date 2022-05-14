@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eeb3d8c-c40b-42ee-a0d6-086261395b30" name="Changes" comment="Updated GUI">
+    <list default="true" id="7eeb3d8c-c40b-42ee-a0d6-086261395b30" name="Changes" comment="Added Screenshots">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project_1_Java_SalesInvoicesGenerator/com/salesinvoicesgenerator/JFrame/SalesInvoicesFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_1_Java_SalesInvoicesGenerator/com/salesinvoicesgenerator/JFrame/SalesInvoicesFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InvoiceItemsExcelFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/InvoiceItemsExcelFile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InvoicesTableExcelFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/InvoicesTableExcelFile.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652538793434</updated>
-      <workItem from="1652538795899" duration="5434000" />
+      <workItem from="1652538795899" duration="6789000" />
     </task>
     <task id="LOCAL-00001" summary="Created Java repo and project structure">
       <created>1652541984712</created>
@@ -161,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652544143813</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added Screenshots">
+      <created>1652545023383</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652545023383</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +195,7 @@
     <MESSAGE value="Updated Tables Classes" />
     <MESSAGE value="Updated AppMain Class" />
     <MESSAGE value="Updated GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated GUI" />
+    <MESSAGE value="Added Screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Screenshots" />
   </component>
 </project>
