@@ -82,10 +82,10 @@ public class SalesInvoicesFrame extends javax.swing.JFrame implements ActionList
         deleteInvoiceBtn.setText("Delete Invoice");
         deleteInvoiceBtn.setActionCommand("DeleteInvoice");
 
-        createNewLineBtn.setText("Save / Create New Line");
+        createNewLineBtn.setText("Save /Create New Line");
         createNewLineBtn.setActionCommand("CreateNewLine");
 
-        deleteLineBtn.setText("Cancel / Delete Line");
+        deleteLineBtn.setText("Cancel /Delete Line");
         deleteLineBtn.setActionCommand("DeleteLine");
 
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(java.awt.Color.lightGray));
