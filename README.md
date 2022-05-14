@@ -4,6 +4,7 @@
 
 1) Project built using Project SDK version "1.8".
 2) Following Udacity Rubric
+3) Documentation Uploaded in Screenshots of Project showing full operation of program with saving and deleting operations validated
 ____________________________________________________________________
 
 # The project consists of
@@ -20,4 +21,6 @@ ____________________________________________________________________
 
 You can run the project from the AppMain Class.
 
-Thanks for your understanding & appreciate your time.
+Thank you for your this OOP project in java I learned a lot! 
+
+Rami Wail Shoula 
